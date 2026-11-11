@@ -385,7 +385,7 @@ def build(args):
         if m or h:
             extra = f" (plus {len(h)} in the held list, {len(m) + len(h)} in total)" if h else ""
             A(f"- **{len(m)} × `{flag}`**{extra}: {why}")
-            if len(m) <= 12:
+            if m and len(m) <= 12:
                 A("  " + ", ".join(f"{r['name']} <{r['email']}>" for r in m))
     A("")
     if stats["company_domain_checked"]:
