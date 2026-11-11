@@ -1,0 +1,179 @@
+registration_id,name,email,company,job_title,registered_at,attended,referral_source,what_do_you_want_to_learn,how_do_you_analyze_data_today,stayed_for_qa
+41001,Imani,imani.lindqvist@kestrelsw.io,,Co-founder,2026-09-29,,Friend/colleague,,tableau,
+41002,Arjun Volkov,arjun.volkov@meridianfreight.com,Driftwood Games,data scientist,2026-09-13,yes,search,,our engineers write queries for us,
+41003,Rory Moreau,rory.moreau@copperline.media,Copperline Media,Data Scientist,2026-09-20,no,coworker,curious how others structure their models,,
+41004,Wren Okafor,wren.okafor@meridianfreight.com,n/a,Customer Success Manager,2026-09-15,,Meetup.com,Want to see what Metabase can do,metabase (open source),
+41005,Maya,maya.mbeki@yahoo.com,Kestrel Software,Finance Analyst,2026-09-29,no,LinkedIn,sharing dashboards externally with clients,python scripts,
+41006,Tobi Lombardi,tobi.lombardi@kestrelsw.io,Blackbird Transit,CS Lead,2026-09-03,yes,Friend/colleague,performance tuning on big tables,we ask the data team,yes
+41007,Simone Nakamura,simone.nakamura@orchardlabs.dev,Self-employed,marketing operations,2026-09-18,no,Meetup.com,我想了解嵌入功能,looker,
+41008,Sam Nilsen,sam.nilsen@gmail.com,freelance,data analyst,2026-09-22,no,email newsletter,curious how others structure their models,spreadsheets,
+41009,Chen Barros,chen.barros@proton.me,pinecrest,Consultant,2026-09-10,yes,slack community,curious how others structure their models,Superset,no
+41010,maya saito,maya.saito@gmail.com,Stacked Bakery,,2026-09-07,yes,Reddit,Our analysts are drowning in ad hoc requests,SQL + spreadsheets,no
+41011,Theo Oyelaran,theo.oyelaran@northwindlog.com,verdant agriculture,Sr. Data Analyst,2026-09-29,no,friend,how do you do version control for dashboards,powerbi,
+41012,suri castro,suri.castro@gmail.com,halcyon,Teacher,2026-09-07,yes,,troubleshooting slow questions,spreadsheets,no
+41013,Wren Rivera,wren.rivera@kestrelsw.io,Sunnyside Co-op,Data Engineer,2026-09-20,yes,Our forum,How do you handle row level permissions?,redash,yes
+41014,Dmitri,dmitri.osei@outlook.com,Blackbird Transit,Backend Engineer,2026-09-16,yes,,我想了解嵌入功能,we use Metabase already,
+41015,Gideon Olsen,gideon.olsen@brightlinehealth.com,Ashgrove Partners,Backend Engineer,2026-09-20,no,Slack,dashboards that people actually use,Metabase!,
+41016,maya sorensen,maya.sorensen@brightlinehealth.com,Copperline Media,software engineer,2026-09-09,yes,search,best practices for naming things so people can find them,mode analytics,no
+41017,Alejandra Desai,alejandra.desai@copperline.media,northwind logistics,CTO,2026-09-19,yes,Slack,data quality / trust issues - people dont believe the numbers,jupyter notebooks,no
+41018,Mira Dalgaard,mira.dalgaard@gmail.com,Ублиц Analytics,Product Manager,2026-09-04,yes,LinkedIn,How to model data for non technical users,tableau,no
+41019,Aisha Moreau,aisha.moreau@orchardlabs.dev,Stacked Bakery,Backend Engineer,2026-09-16,no,discourse,self service analytics without me being the bottleneck,python scripts,
+41020,hana lombardi,hana.lombardi@verdantag.co,Meridian Freight,,2026-09-06,yes,meetup,how do you do version control for dashboards,Python + pandas,yes
+41021,колин mensah,колин.mensah@yahoo.com,lantern,Student,2026-09-21,no,discourse,sharing dashboards externally with clients,jupyter notebooks,
+41022,Rory Bhatt,rory.bhatt@verdantag.co,Rooksbury Council,Head of Data,2026-09-19,no,search,,we ask the data team,
+41023,Колин Adeyemi,колин.adeyemi@yahoo.com,Meridian Freight,Analytics Engineer,2026-09-23,yes,Friend/colleague,performance tuning on big tables,Metabase,no
+41024,Hana Castellanos,hana.castellanos@verdantag.co,Fernwood Retail,Finance Analyst,2026-09-17,no,search,"Looking to replace Looker, cost is killing us",,
+41025,Sarah Krishnan,sarah.krishnan@lanternrobotics.com,Tidewater Capital,Founder,2026-09-14,yes,newsletter,best practices for naming things so people can find them,"I don't, that's the problem",no
+41026,Marcus Mwangi,колин.mensah@yahoo.com,brightline,Marketing Ops,2026-09-27,yes,LinkedIn,Our analysts are drowning in ad hoc requests,redash,yes
+41027,ravi rivera,hana.lombardi@verdantag.co,Halcyon Energy,Customer Success Manager,2026-09-02,no,GitHub,Interested in the open source version vs cloud,Google Sheets,
+41028,Rosa Kaur,rosa.kaur@northwindlog.com,Brightline Health Inc,CTO,2026-09-24,no,GitHub,performance tuning on big tables,python scripts,
+41029,Simone,simone.desai@orchardlabs.dev,Sablefish Foods,Director of Analytics,2026-09-19,yes,friend,Want to automate our weekly reporting,Looker,no
+41030,Nadia Desai,nadia.desai@copperline.media,verdant agriculture,CTO,2026-09-09,yes,word of mouth,Embedding dashboards in our own app,Superset,no
+41031,Gus Guerrero,gus.guerrero@kestrelsw.io,Lantern Robotics,Senior Data Analyst,2026-09-20,no,x.com,data quality / trust issues - people dont believe the numbers,we ask the data team,
+41032,Tobi Castro,tobi.castro@yahoo.com,tidewater capital llc,Senior Data Analyst,2026-09-13,yes,friend,best practices for naming things so people can find them,SQL + spreadsheets,no
+41033,Arjun Moreau,arjun.moreau@outlook.com,n/a,independent consultant,2026-09-21,yes,email newsletter,,metabase (open source),no
+41034,Anya Lombardi,anya.lombardi@lanternrobotics.com,Rooksbury Council,Software Engineer,2026-09-13,no,friend,curious how others structure their models,Tableau,
+41035,Omar Moreau,omar.moreau@meridianfreight.com,,Customer Success Manager,2026-09-22,no,slack community,curious how others structure their models,Python + pandas,
+41036,Ines,ines.mensah@copperline.media,copperline,marketing operations,2026-09-29,yes,LinkedIn,How do you handle row level permissions?,tableau,no
+41037,Bea Haddad,bea.haddad@gmail.com,Fernwood Retail,Student,2026-09-18,yes,search,How to get execs to actually look at the data,Snowflake + Excel,no
+41038,THEO OYELARAN,theo.oyelaran@lanternrobotics.com,n/a,BI Developer,2026-09-07,no,coworker,I want to learn SQL better,nothing really,
+41039,greta kim,greta.kim@kestrelsw.io,FERNWOOD,Backend Engineer,2026-09-25,no,Slack,best practices for naming things so people can find them,spreadsheets,
+41040,GRETA HADDAD,greta.haddad@copperline.media,kestrel,data analyst,2026-09-15,yes,email newsletter,dashboards that people actually use,Mode,
+41041,Karim Novak,karim.novak@meridianfreight.com,Pinecrest Schools,Founder,2026-09-18,no,Newsletter,dashboards that people actually use,"I don't, that's the problem",
+41042,Aisha Zhou,AISHA.ZHOU@COPPERLINE.MEDIA,Ashgrove Partners,RevOps,2026-09-05,yes,,Getting started - total beginner,looker,no
+41043,hana flanagan,hana.flanagan@gmail.com,Tidewater Capital,Data Engineer,2026-09-21,no,Meetup.com,"nothing specific, just networking",redash,
+41044,omar olsen,sarah.krishnan@lanternrobotics.com,halcyon,,2026-09-20,no,Our forum,curious how others structure their models,Mode,
+41045,Suri Petrov,suri.petrov@outlook.com,Tidewater Capital,data analyst,2026-09-14,no,Newsletter,best practices for naming things so people can find them,Python + pandas,
+41046,Greta Whitlock,chen.barros@proton.me,brightline,Grad student,2026-09-13,yes,twitter,,redash,
+41047,imani zhou,imani.zhou@copperline.media,n/a,Analytics Engineer,2026-09-14,yes,reddit,curious how others structure their models,jupyter notebooks,
+41048,OWEN RAHIMI,owen.rahimi@proton.me,Copperline Media,Growth Marketer,2026-09-08,no,GitHub,How to get my team off spreadsheets,tableau,
+41049,Ibrahim Brennan,ibrahim.brennan@northwindlog.com,Self-employed,CS Lead,2026-09-26,yes,email newsletter,data quality / trust issues - people dont believe the numbers,google sheets + some SQL,
+41050,luis olsen,luis.olsen@kestrelsw.io,Self-employed,Analytics Engineer,2026-09-22,yes,slack community,troubleshooting slow questions,spreadsheets,yes
+41051,Gideon Vance,gideon.vance@proton.me,,,2026-09-13,no,Google,,Metabase!,
+41052,Hana Rivera,owen.rahimi@proton.me,Meridian Freight,Revenue Operations,2026-09-25,yes,discourse,"Looking to replace Looker, cost is killing us",Python + pandas,no
+41053,Nikhil Petrov,nikhil.petrov@northwindlog.com,Northwind Logistics,Product Manager,2026-09-07,no,Twitter,How to get execs to actually look at the data,our engineers write queries for us,
+41054,Nikhil Kaur,nikhil.kaur@brightlinehealth.com,Quartz Mutual,Analytics Engineer,2026-09-12,yes,,,superset,
+41055,Колин Vance,колин.vance@brightlinehealth.com,Ashgrove Partners,Ops Manager,2026-09-13,yes,Slack,sharing dashboards externally with clients,we ask the data team,no
+41056,Thandi Nakamura,thandi.nakamura@brightlinehealth.com,Ashgrove Partners,Growth Marketer,2026-09-16,yes,twitter,alerts and scheduled reports,redash,yes
+41057,gideon abiodun,gideon.abiodun@brightlinehealth.com,,Backend Engineer,2026-09-02,yes,x.com,Want to see what Metabase can do,jupyter notebooks,no
+41058,NIKHIL BARROS,nikhil.barros@outlook.com,Stacked Bakery,Sr. Data Analyst,2026-09-28,yes,search,How to get execs to actually look at the data,superset,
+41059,Ibrahim Novak,ibrahim.novak@meridianfreight.com,FERNWOOD,Ops Manager,2026-09-15,yes,Twitter,performance tuning on big tables,metabase (open source),
+41060,Sarah,sarah.zhou@kestrelsw.io,sablefish,Director of Analytics,2026-09-07,no,email newsletter,我想了解嵌入功能,looker,
+41061,Gideon Volkov,gideon.volkov@kestrelsw.io,Fernwood Retail,Software Engineer,2026-09-18,no,coworker,,"I don't, that's the problem",
+41062,Caleb Novak,caleb.novak@yahoo.com,freelance,finance,2026-09-26,yes,,performance tuning on big tables,Snowflake + Excel,
+41063,dmitri oyelaran,dmitri.oyelaran@copperline.media,juniper,marketing operations,2026-09-17,no,,How to model data for non technical users,Redash,
+41064,Owen Mwangi,owen.mwangi@meridianfreight.com,Pinecrest Schools,product manager,2026-09-22,yes,Twitter,Want to automate our weekly reporting,tableau,
+41065,JOSIE ACHEBE,josie.achebe@kestrelsw.io,Sunnyside Co-op,Sr. Data Analyst,2026-09-20,yes,Newsletter,"Looking to replace Looker, cost is killing us",Excel,yes
+41066,Devin Okafor,devin.okafor@gmail.com,Sablefish Foods,Marketing Ops,2026-09-10,,GitHub,,nothing really,
+41067,Jules,TOBI.CASTRO@YAHOO.COM,Pinecrest Schools,Senior Data Analyst,2026-09-20,yes,Newsletter,How to model data for non technical users,metabase (open source),no
+41068,Tobi Kaur,tobi.kaur@northwindlog.com,sunnyside,Data Engineer,2026-09-12,no,,just curious,dbt + Looker,
+41069,Josie Volkov,josie.volkov@copperline.media,Northwind Logistics,Operations Lead,2026-09-03,yes,Slack,self service analytics without me being the bottleneck,,no
+41070,Zane Krishnan,zane.krishnan@brightlinehealth.com,orchard labs,marketing operations,2026-09-23,no,coworker,sharing dashboards externally with clients,Superset,
+41071,Karim Haddad,karim.haddad@northwindlog.com,n/a,Consultant,2026-09-14,yes,Twitter,Interested in the open source version vs cloud,Excel,
+41072,Omar Guerrero,omar.guerrero@verdantag.co,Rooksbury Council,,2026-09-19,no,search,I want to learn SQL better,Mode,
+41073,Gideon Haddad,gideon.haddad@verdantag.co,Ashgrove Partners,product manager,2026-09-19,yes,slack community,Want to see what Metabase can do,we ask the data team,no
+41074,Cleo Mensah,GRETA.HADDAD@COPPERLINE.MEDIA,,Revenue Operations,2026-09-23,yes,Slack,,"I don't, that's the problem",no
+41075,Arjun Osei,arjun.osei@gmail.com,Rooksbury Council,Data Engineer,2026-09-28,yes,Slack,Interested in the open source version vs cloud,we ask the data team,
+41076,Omar Barros,omar.barros@meridianfreight.com,Kestrel Software,finance,2026-09-23,no,Twitter,"nothing specific, just networking",our engineers write queries for us,
+41077,Tobi Dalgaard,tobi.dalgaard@gmail.com,Self-employed,Research Assistant,2026-09-02,no,Reddit,Want to see what Metabase can do,Python + pandas,
+41078,NOOR NAKAMURA,noor.nakamura@copperline.media,pinecrest,bi developer,2026-09-29,yes,slack community,moving off of excel,redash,no
+41079,Dara Mensah,dara.mensah@yahoo.com,Self-employed,independent consultant,2026-09-04,yes,LinkedIn,I want to learn SQL better,spreadsheets,no
+41080,Theo Kaur,theo.kaur@yahoo.com,sunnyside,Finance Analyst,2026-09-21,,newsletter,moving off of excel,Metabase,
+41081,Yuki Petrov,yuki.petrov@gmail.com,Self-employed,Co-founder,2026-09-07,no,X,How to get execs to actually look at the data,superset,
+41082,sam okafor,sam.okafor@northwindlog.com,Verdant Ag,Product Manager,2026-09-05,yes,twitter,,Superset,no
+41083,Tess Moreau,tess.moreau@orchardlabs.dev,Orchard Labs,Sr. Data Analyst,2026-09-16,,newsletter,,spreadsheets,
+41084,rory mbeki,rory.mbeki@gmail.com,Northwind Logistics,independent consultant,2026-09-10,yes,linkedin,curious how others structure their models,superset,yes
+41085,tobi adeyemi,tobi.adeyemi@gmail.com,,Data Scientist,2026-09-23,no,Our forum,Our analysts are drowning in ad hoc requests,superset,
+41086,Imani Haddad,imani.haddad@gmail.com,Kestrel Software,product manager,2026-09-10,yes,Twitter,troubleshooting slow questions,google sheets + some SQL,
+41087,Marcus Mwangi,marcus.mwangi@lanternrobotics.com,,product manager,2026-09-13,yes,X,sharing dashboards externally with clients,Metabase,no
+41088,Imani Bhatt,imani.bhatt@proton.me,orchard labs,marketing operations,2026-09-10,yes,LinkedIn,How to get execs to actually look at the data,Tableau,yes
+41089,Rosa Vance,rosa.vance@gmail.com,Self-employed,Consultant,2026-09-29,yes,Reddit,Want to see what Metabase can do,tableau,yes
+41090,alejandra lindqvist,alejandra.lindqvist@lanternrobotics.com,verdant agriculture,independent consultant,2026-09-27,yes,,How to model data for non technical users,nothing really,no
+41091,Ibrahim Kaur,ibrahim.kaur@lanternrobotics.com,sunnyside,BI Developer,2026-09-24,yes,email newsletter,,Looker,yes
+41092,nadia moreau,nadia.moreau@copperline.media,Driftwood Games,Operations Lead,2026-09-05,yes,Our forum,Want to see what Metabase can do,SQL + spreadsheets,no
+41093,Omar,omar.krishnan@gmail.com,halcyon,Ops Manager,2026-09-09,yes,LinkedIn,Want to see what Metabase can do,python scripts,no
+41094,sarah flanagan,sarah.flanagan@kestrelsw.io,halcyon,product manager,2026-09-20,no,friend,sharing dashboards externally with clients,mode analytics,
+41095,THEO KAUR,theo.kaur@brightlinehealth.com,Fernwood Retail,Software Engineer,2026-09-13,no,Meetup.com,Getting started - total beginner,Metabase!,
+41096,Bram Vance,bram.vance@copperline.media,,Operations Lead,2026-09-23,no,,curious how others structure their models,tableau,
+41097,CALEB GUERRERO,caleb.guerrero@proton.me,kestrel,Ops Manager,2026-09-22,no,X,"nothing specific, just networking",Power BI,
+41098,Caleb Castellanos,caleb.castellanos@brightlinehealth.com,Sunnyside Co-op,data analyst,2026-09-20,,,alerts and scheduled reports,spreadsheets,
+41099,Sarah Lindqvist,sarah.lindqvist@northwindlog.com,pinecrest,CTO,2026-09-14,yes,linkedin,How to model data for non technical users,redash,no
+41100,Maya Oyelaran,maya.oyelaran@kestrelsw.io,Rooksbury Council,Director of Analytics,2026-09-27,yes,slack community,Our analysts are drowning in ad hoc requests,Metabase!,no
+41101,Tom Haddad,tom.haddad@northwindlog.com,juniper,CTO,2026-09-03,no,LinkedIn,Getting started - total beginner,Superset,
+41102,Karim Sorensen,karim.sorensen@outlook.com,FERNWOOD,,2026-09-24,no,friend,Want to see what Metabase can do,looker,
+41103,Priya,priya.nakamura@northwindlog.com,freelance,CS Lead,2026-09-10,no,discourse,"nothing specific, just networking",Metabase,
+41104,yuki vance,yuki.vance@yahoo.com,Pinecrest Schools,Data Scientist,2026-09-21,no,slack community,I want to learn SQL better,nothing really,
+41105,Vik Castellanos,vik.castellanos@lanternrobotics.com,copperline,Founder,2026-09-10,no,friend,Getting started - total beginner,Redash,
+41106,Kwame Nakamura,kwame.nakamura@gmail.com,Sunnyside Co-op,marketing operations,2026-09-07,no,friend,just curious,we ask the data team,
+41107,Nadia Novak,nadia.novak@verdantag.co,orchard labs,Operations Lead,2026-09-21,yes,Meetup.com,Want to see what Metabase can do,metabase (open source),no
+41108,Josie Castellanos,josie.castellanos@northwindlog.com,NORTHWIND LOGISTICS,student,2026-09-05,yes,meetup,sharing dashboards externally with clients,Metabase,no
+41109,Ibrahim Nilsen,ibrahim.nilsen@gmail.com,,Data Engineer,2026-09-04,no,reddit,self service analytics without me being the bottleneck,tableau,
+41110,Vik Lindqvist,sam.nilsen@gmail.com,juniper,Sr. Data Analyst,2026-09-10,no,search,"nothing specific, just networking",Superset,
+41111,Chen Castro,chen.castro@kestrelsw.io,Kestrel Software,Revenue Operations,2026-09-09,yes,email newsletter,Getting started - total beginner,Metabase,no
+41112,Alejandra Bhatt,alejandra.bhatt@verdantag.co,Copperline Media,Analytics Engineer,2026-09-26,,GitHub,Want to see what Metabase can do,"I don't, that's the problem",
+41113,Rosa Volkov,rosa.volkov@kestrelsw.io,Tidewater Capital,Growth Marketer,2026-09-17,yes,Slack,sharing dashboards externally with clients,Tableau,yes
+41114,Thandi Mwangi,thandi.mwangi@lanternrobotics.com,Brightline Health Inc,Senior Data Analyst,2026-09-18,no,Google,Interested in the open source version vs cloud,we use Metabase already,
+41115,Mei Osei,mei.osei@meridianfreight.com,Stacked Bakery,finance,2026-09-22,yes,Newsletter,moving off of excel,we ask the data team,no
+41116,Колин Sorensen,колин.sorensen@gmail.com,Brightline Health Inc,analytics engineer,2026-09-22,yes,Our forum,how do you do version control for dashboards,tableau,no
+41117,NOOR ZHOU,noor.zhou@outlook.com,Blackbird Transit,data analyst,2026-09-16,no,meetup,Our analysts are drowning in ad hoc requests,spreadsheets,
+41118,marcus lindqvist,marcus.lindqvist@verdantag.co,Pinecrest Schools,Founder,2026-09-13,yes,x.com,performance tuning on big tables,Mode,yes
+41119,Gideon Kim,gideon.kim@gmail.com,Pinecrest Schools,BI Developer,2026-09-17,yes,discourse,How do you handle row level permissions?,Metabase,
+41120,Marcus Krishnan,marcus.krishnan@kestrelsw.io,Fernwood Retail,Sr. Data Analyst,2026-09-03,yes,newsletter,dashboards that people actually use,Power BI,no
+41121,anders saito,anders.saito@gmail.com,verdant agriculture,marketing operations,2026-09-13,yes,X,I need to justify a BI purchase to my CFO,powerbi,no
+41122,Nikhil Krishnan,nikhil.krishnan@lanternrobotics.com,verdant agriculture,Data Scientist,2026-09-21,yes,Meetup.com,self service analytics without me being the bottleneck,spreadsheets,no
+41123,Gus Dalgaard,gus.dalgaard@kestrelsw.io,,Growth Marketer,2026-09-13,yes,reddit,Getting started - total beginner,Google Sheets,
+41124,omar flanagan,omar.flanagan@yahoo.com,Meridian Freight,Senior Data Analyst,2026-09-04,yes,,How to get execs to actually look at the data,mode analytics,no
+41125,Owen Mensah,OWEN.MENSAH@VERDANTAG.CO,Tidewater Capital,Ops Manager,2026-09-28,no,Reddit,Getting started - total beginner,,
+41126,Anya,anya.whitlock@meridianfreight.com,freelance,Head of Data,2026-09-21,yes,slack community,Want to see what Metabase can do,jupyter notebooks,no
+41127,Simone Krishnan,simone.krishnan@orchardlabs.dev,Tidewater Capital,analytics engineer,2026-09-22,no,GitHub,Our analysts are drowning in ad hoc requests,Metabase!,
+41128,Omar Nilsen,omar.nilsen@yahoo.com,Rooksbury Council,marketing operations,2026-09-14,yes,Friend/colleague,performance tuning on big tables,google sheets + some SQL,no
+41129,Nadia Rahimi,nadia.rahimi@kestrelsw.io,brightline,Product Manager,2026-09-23,no,Meetup.com,I want to learn SQL better,redash,
+41130,owen mensah,owen.mensah@brightlinehealth.com,Verdant Ag,student,2026-09-03,yes,friend,self service analytics without me being the bottleneck,Metabase!,yes
+41131,Anders Volkov,rory.moreau@copperline.media,northwind logistics,RevOps,2026-09-10,yes,slack community,我想了解嵌入功能,we use Metabase already,yes
+41132,pavel brennan,pavel.brennan@orchardlabs.dev,Blackbird Transit,Research Assistant,2026-09-12,yes,slack community,我想了解嵌入功能,Looker,no
+41133,ravi tanaka,ravi.tanaka@yahoo.com,meridian freight co,bi developer,2026-09-02,,Friend/colleague,performance tuning on big tables,metabase (open source),
+41134,Ibrahim Bhatt,ibrahim.bhatt@orchardlabs.dev,Driftwood Games,bi developer,2026-09-13,yes,slack community,How to get my team off spreadsheets,mode analytics,yes
+41135,Owen Dalgaard,owen.dalgaard@brightlinehealth.com,Tidewater Capital,independent consultant,2026-09-04,no,twitter,troubleshooting slow questions,jupyter notebooks,
+41136,bea desai,bea.desai@brightlinehealth.com,Ashgrove Partners,Software Engineer,2026-09-13,yes,linkedin,sharing dashboards externally with clients,Tableau,no
+41137,Yuki Rahimi,alejandra.lindqvist@lanternrobotics.com,brightline,analytics engineer,2026-09-14,no,slack community,best practices for naming things so people can find them,metabase (open source),
+41138,Tess Ferraro,tess.ferraro@orchardlabs.dev,Sablefish Foods,Analytics Engineer,2026-09-08,yes,Slack,Want to see what Metabase can do,Python + pandas,no
+41139,Suri Achebe,suri.achebe@proton.me,Rooksbury Council,analytics engineer,2026-09-13,yes,word of mouth,troubleshooting slow questions,jupyter notebooks,no
+41140,Tom Whitlock,rory.moreau@copperline.media,Kestrel Software,Revenue Operations,2026-09-18,,search,How to get my team off spreadsheets,redash,
+41141,Aisha Krishnan,aisha.krishnan@proton.me,Ashgrove Partners,Operations Lead,2026-09-24,no,friend,How to get execs to actually look at the data,python scripts,
+41142,HANA GUERRERO,hana.guerrero@orchardlabs.dev,sunnyside,data scientist,2026-09-22,no,friend,sharing dashboards externally with clients,Excel,
+41143,kwame petrov,kwame.petrov@yahoo.com,freelance,Data Analyst,2026-09-10,yes,email newsletter,How to get my team off spreadsheets,Metabase!,no
+41144,Jules Lindqvist,jules.lindqvist@proton.me,tidewater capital llc,BI Developer,2026-09-13,yes,search,how do you do version control for dashboards,google sheets + some SQL,yes
+41145,sam mbeki,sam.mbeki@gmail.com,,Growth Marketer,2026-09-21,yes,Twitter,Interested in the open source version vs cloud,Metabase,
+41146,tess mbeki,tess.mbeki@gmail.com,Sunnyside Co-op,Customer Success Manager,2026-09-14,no,newsletter,Our analysts are drowning in ad hoc requests,python scripts,
+41147,Imani Lindqvist,imani.lindqvist@gmail.com,sablefish,Sr. Data Analyst,2026-09-15,no,Meetup.com,data quality / trust issues - people dont believe the numbers,Redash,
+41148,bram oyelaran,bram.oyelaran@verdantag.co,Orchard Labs,Founder,2026-09-11,no,x.com,,Power BI,
+41149,Ravi Okafor,ravi.okafor@northwindlog.com,sablefish,Data Scientist,2026-09-26,yes,search,Our analysts are drowning in ad hoc requests,Excel,no
+41150,josie lombardi,josie.lombardi@northwindlog.com,Kestrel Software,Consultant,2026-09-20,no,newsletter,How to get execs to actually look at the data,we ask the data team,
+41151,TESS RIVERA,tess.rivera@northwindlog.com,Tidewater Capital,bi developer,2026-09-17,no,Slack,self service analytics without me being the bottleneck,Redash,
+41152,greta mwangi,greta.mwangi@orchardlabs.dev,Ублиц Analytics,Revenue Operations,2026-09-19,yes,twitter,,excel,no
+41153,Ibrahim Kaur,ibrahim.kaur@meridianfreight.com,Rooksbury Council,student,2026-09-05,yes,Google,How to get execs to actually look at the data,Python + pandas,
+41154,Nadia Petrov,theo.kaur@yahoo.com,Tidewater Capital,,2026-09-05,yes,word of mouth,Our analysts are drowning in ad hoc requests,our engineers write queries for us,no
+41155,Imani Petrov,imani.petrov@outlook.com,verdant agriculture,Data Analyst,2026-09-05,no,Newsletter,How to model data for non technical users,Tableau,
+41156,hugo ferraro,колин.mensah@yahoo.com,Self-employed,Customer Success Manager,2026-09-13,no,,我想了解嵌入功能,,
+41157,Kwame Novak,kwame.novak@gmail.com,Brightline Health,Ops Manager,2026-09-18,no,newsletter,Want to automate our weekly reporting,we use Metabase already,
+41158,Owen Kaur,owen.kaur@gmail.com,Halcyon Energy,Analytics Engineer,2026-09-19,yes,discourse,,Looker,
+41159,Priya Ferraro,priya.ferraro@kestrelsw.io,Fernwood Retail,Backend Engineer,2026-09-09,yes,Our forum,How to model data for non technical users,google sheets + some SQL,no
+41160,Caleb Castellanos,caleb.castellanos@lanternrobotics.com,Meridian Freight,Head of Data,2026-09-11,yes,Friend/colleague,dashboards that people actually use,Power BI,no
+41161,Vik Desai,vik.desai@orchardlabs.dev,Brightline Health,Co-founder,2026-09-27,,Friend/colleague,How to model data for non technical users,our engineers write queries for us,
+41162,ravi bhatt,ravi.bhatt@outlook.com,lantern,Finance Analyst,2026-09-09,no,,data quality / trust issues - people dont believe the numbers,python scripts,
+41163,Hugo Rivera,hugo.rivera@meridianfreight.com,Ashgrove Partners,Student,2026-09-24,yes,coworker,Want to automate our weekly reporting,Looker,yes
+41164,anya abiodun,anya.abiodun@northwindlog.com,pinecrest,Software Engineer,2026-09-26,yes,x.com,How do you handle row level permissions?,Google Sheets,yes
+41165,Aisha Lindqvist,aisha.lindqvist@verdantag.co,Sunnyside Co-op,data scientist,2026-09-17,yes,Our forum,Want to automate our weekly reporting,python scripts,
+41166,Wren Haddad,wren.haddad@proton.me,meridian freight co,data scientist,2026-09-24,yes,Google,How to get execs to actually look at the data,dbt + Looker,yes
+41167,hana okafor,HANA.OKAFOR@GMAIL.COM,lantern,data analyst,2026-09-21,no,X,,Mode,
+41168,mei castro,MEI.CASTRO@NORTHWINDLOG.COM,Brightline Health,Head of Data,2026-09-20,no,Twitter,Embedding dashboards in our own app,google sheets + some SQL,
+41169,Yuki,yuki.whitlock@northwindlog.com,orchard labs,Grad student,2026-09-13,no,Twitter,我想了解嵌入功能,nothing really,
+41170,alejandra nakamura,alejandra.nakamura@yahoo.com,Ублиц Analytics,,2026-09-13,yes,discourse,Our analysts are drowning in ad hoc requests,Snowflake + Excel,yes
+41171,Aisha Bhatt,aisha.bhatt@gmail.com,juniper,Growth Marketer,2026-09-27,yes,Meetup.com,data quality / trust issues - people dont believe the numbers,metabase (open source),
+41172,Chen Novak,chen.novak@verdantag.co,juniper,Teacher,2026-09-16,no,coworker,troubleshooting slow questions,python scripts,
+41173,Fatima Nakamura,fatima.nakamura@orchardlabs.dev,copperline,Head of Data,2026-09-26,no,meetup,Embedding dashboards in our own app,Snowflake + Excel,
+41174,Devin Rivera,devin.rivera@verdantag.co,Orchard Labs,data scientist,2026-09-08,no,slack community,I need to justify a BI purchase to my CFO,excel,
+41175,Leila Adeyemi,leila.adeyemi@proton.me,FERNWOOD,Revenue Operations,2026-09-25,yes,Friend/colleague,How do you handle row level permissions?,"I don't, that's the problem",no
+41176,Owen Guerrero,owen.guerrero@northwindlog.com,juniper,,2026-09-15,yes,Our forum,sharing dashboards externally with clients,Excel,no
+41177,hugo whitlock,hugo.whitlock@verdantag.co,sablefish,finance,2026-09-20,no,GitHub,,Superset,
+41178,Dara Tanaka,dara.tanaka@gmail.com,kestrel,student,2026-09-10,no,GitHub,我想了解嵌入功能,google sheets + some SQL,
