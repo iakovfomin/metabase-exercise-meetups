@@ -381,8 +381,10 @@ def build(args):
                ("academic", "Student or teacher title. Kept out of the personal-note group.")]
     for flag, why in flagged:
         m = [r for r in send if flag in r["flags"]]
-        if m:
-            A(f"- **{len(m)} × `{flag}`**: {why}")
+        h = [r for r in held if flag in r["flags"]]
+        if m or h:
+            extra = f" (plus {len(h)} in the held list, {len(m) + len(h)} in total)" if h else ""
+            A(f"- **{len(m)} × `{flag}`**{extra}: {why}")
             if len(m) <= 12:
                 A("  " + ", ".join(f"{r['name']} <{r['email']}>" for r in m))
     A("")

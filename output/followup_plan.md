@@ -13,7 +13,7 @@ Source: `raw.csv` · 178 registrations · generated 2026-11-11
 ### This month
 
 - 8 people wrote their learning goal in Chinese (我想了解嵌入功能, 'I want to learn about embedding'): 6 are in the send list and 2 are held. All are flagged non_english_answer. Consider replying in Chinese.
-- 4 addresses start with the Cyrillic 'колин' while the surnames are Latin, which looks like 'Colin' was transliterated or mangled at export. Check these addresses before sending; one of them (колин.mensah@yahoo.com) is also shared by 2 held registrations.
+- 6 registrations (4 to email, 2 held) use addresses starting with the Cyrillic 'колин' while the surnames are Latin, which looks like 'Colin' was transliterated or mangled at export. Check these addresses before sending.
 - Marcus Mwangi was held at колин.mensah@yahoo.com (registration 41026), but a Marcus Mwangi with his own address (marcus.mwangi@lanternrobotics.com) is in the send list, so he is probably still reached. Ravi Rivera and Hana Rivera, both held, gave buying signals and have no other address.
 - The company field mostly does not match the email domain (89 of 96 work addresses), so do not use company names in personalisation.
 
@@ -211,15 +211,15 @@ Each person is in exactly one group: the first one they match, top to bottom. Th
 
 ## Check before sending
 
-- **4 × `non_ascii_email`**: Address contains non-Latin characters. Many mail tools reject these; confirm it is deliverable or correct it.
+- **4 × `non_ascii_email`** (plus 2 in the held list, 6 in total): Address contains non-Latin characters. Many mail tools reject these; confirm it is deliverable or correct it.
   Колин Vance <колин.vance@brightlinehealth.com>, Колин Mensah <колин.mensah@yahoo.com>, Колин Adeyemi <колин.adeyemi@yahoo.com>, Колин Sorensen <колин.sorensen@gmail.com>
 - **11 × `address_also_used_by_others`**: Other people registered with this person's address. They get one email; the others are in the held list.
   Колин Mensah <колин.mensah@yahoo.com>, Theo Kaur <theo.kaur@yahoo.com>, Alejandra Lindqvist <alejandra.lindqvist@lanternrobotics.com>, Greta Haddad <greta.haddad@copperline.media>, Owen Rahimi <owen.rahimi@proton.me>, Hana Lombardi <hana.lombardi@verdantag.co>, Chen Barros <chen.barros@proton.me>, Sarah Krishnan <sarah.krishnan@lanternrobotics.com>, Tobi Castro <tobi.castro@yahoo.com>, Rory Moreau <rory.moreau@copperline.media>, Sam Nilsen <sam.nilsen@gmail.com>
-- **11 × `same_name_other_email`**: Same name appears under a different address. May be one person registered twice; send to one.
+- **11 × `same_name_other_email`** (plus 1 in the held list, 12 in total): Same name appears under a different address. May be one person registered twice; send to one.
   Marcus Mwangi <marcus.mwangi@lanternrobotics.com>, Owen Mensah <owen.mensah@brightlinehealth.com>, Theo Kaur <theo.kaur@yahoo.com>, Caleb Castellanos <caleb.castellanos@lanternrobotics.com>, Ibrahim Kaur <ibrahim.kaur@meridianfreight.com>, Caleb Castellanos <caleb.castellanos@brightlinehealth.com>, Theo Oyelaran <theo.oyelaran@northwindlog.com>, Owen Mensah <owen.mensah@verdantag.co>, Theo Kaur <theo.kaur@brightlinehealth.com>, Theo Oyelaran <theo.oyelaran@lanternrobotics.com>, Ibrahim Kaur <ibrahim.kaur@lanternrobotics.com>
-- **6 × `non_english_answer`**: Answered in another language. Consider replying in it.
+- **6 × `non_english_answer`** (plus 2 in the held list, 8 in total): Answered in another language. Consider replying in it.
   Dmitri <dmitri.osei@outlook.com>, Pavel Brennan <pavel.brennan@orchardlabs.dev>, Dara Tanaka <dara.tanaka@gmail.com>, Sarah <sarah.zhou@kestrelsw.io>, Simone Nakamura <simone.nakamura@orchardlabs.dev>, Yuki <yuki.whitlock@northwindlog.com>
-- **12 × `academic`**: Student or teacher title. Kept out of the personal-note group.
+- **12 × `academic`** (plus 1 in the held list, 13 in total): Student or teacher title. Kept out of the personal-note group.
   Josie Castellanos <josie.castellanos@northwindlog.com>, Pavel Brennan <pavel.brennan@orchardlabs.dev>, Dara Tanaka <dara.tanaka@gmail.com>, Yuki <yuki.whitlock@northwindlog.com>, Колин Mensah <колин.mensah@yahoo.com>, Owen Mensah <owen.mensah@brightlinehealth.com>, Hugo Rivera <hugo.rivera@meridianfreight.com>, Bea Haddad <bea.haddad@gmail.com>, Ibrahim Kaur <ibrahim.kaur@meridianfreight.com>, Suri Castro <suri.castro@gmail.com>, Chen Novak <chen.novak@verdantag.co>, Tobi Dalgaard <tobi.dalgaard@gmail.com>
 
 Company names were not used for grouping: for 89 of 96 work addresses (93%) the company field does not match the email domain.

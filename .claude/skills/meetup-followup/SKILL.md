@@ -50,7 +50,7 @@ The script does everything that is a count or a rule. You do two things only: la
 
 4. **Write hooks.** Read each group's "What they asked for" line in `followup_plan.md`. Add to `judgment.json`:
    - `"hooks": {"<group key>": "<one or two sentences>"}` for `evaluating, embedding, metabase_users, self_serve, craft, getting_started`. A hook says what to lead with this month, based only on that group's answers.
-   - `"notes": ["..."]` for anything a person should know before sending: answers in another language, answers you labelled `none` because you were unsure, anything odd in the file. Up to four. Take any number you quote from the script's output.
+   - `"notes": ["..."]` for anything a person should know before sending: answers in another language, answers you labelled `none` because you were unsure, anything odd in the file. Up to four. Take any number you quote from the plan's "Check before sending" section or the script's output, never from your own count. Those flag counts cover the send list; when the line also gives a held count, quote the total and both parts.
 
    Run step 3 again. Repeat until it prints no missing hooks.
 
