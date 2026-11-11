@@ -12,7 +12,7 @@ Source: `raw.csv` · 178 registrations · generated 2026-11-11
 
 ### This month
 
-- 6 people wrote their learning goal in Chinese (我想了解嵌入功能, 'I want to learn about embedding'); they are flagged non_english_answer. Consider replying in Chinese.
+- 8 people wrote their learning goal in Chinese (我想了解嵌入功能, 'I want to learn about embedding'): 6 are in the send list and 2 are held. All are flagged non_english_answer. Consider replying in Chinese.
 - 4 addresses start with the Cyrillic 'колин' while the surnames are Latin, which looks like 'Colin' was transliterated or mangled at export. Check these addresses before sending; one of them (колин.mensah@yahoo.com) is also shared by 2 held registrations.
 - Marcus Mwangi was held at колин.mensah@yahoo.com (registration 41026), but a Marcus Mwangi with his own address (marcus.mwangi@lanternrobotics.com) is in the send list, so he is probably still reached. Ravi Rivera and Hana Rivera, both held, gave buying signals and have no other address.
 - The company field mostly does not match the email domain (89 of 96 work addresses), so do not use company names in personalisation.
